@@ -1,6 +1,6 @@
 ---
-date: '2026-09-14T20:15:00+01:00'
-draft: true
+date: '2026-09-21T06:35:00+01:00'
+draft: false
 title: 'When Green SLAs Still Mean Angry Users'
 cover:
   image: "green-slas-header.png"
