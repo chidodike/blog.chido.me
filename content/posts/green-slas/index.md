@@ -1,5 +1,5 @@
 ---
-date: '2026-09-21T06:35:00+01:00'
+date: '2026-09-21T06:00:00+01:00'
 draft: false
 title: 'When Green SLAs Still Mean Angry Users'
 cover:
