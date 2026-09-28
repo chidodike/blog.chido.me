@@ -1,6 +1,6 @@
 ---
-date: '2026-09-28T09:00:00+01:00'
-draft: true
+date: '2026-09-28T08:54:00+01:00'
+draft: false
 title: 'VIP Support Without Creating a Shadow Helpdesk'
 cover:
   image: "vip-support-header.png"
