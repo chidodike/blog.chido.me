@@ -45,16 +45,21 @@ params:
   tocopen: false
 
   assets:
-    favicon: "/favicon.ico"
-    favicon16x16: "/favicon-16x16.png"
-    favicon32x32: "/favicon-32x32.png"
-    apple_touch_icon: "/apple-touch-icon.png"
-    safari_pinned_tab: "/apple-touch-icon.png"
+    favicon: "/favicon.ico?v=20261004"
+    favicon16x16: "/favicon-16x16.png?v=20261004"
+    favicon32x32: "/favicon-32x32.png?v=20261004"
+    apple_touch_icon: "/apple-touch-icon.png?v=20261004"
+    safari_pinned_tab: "/apple-touch-icon.png?v=20261004"
 
   label:
     text: "Chido Dike"
-    icon: /apple-touch-icon.png
     iconHeight: 35
+    iconSVG: |-
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="19.5 -728.5 1297.3 748"><g transform="scale(1,-1)">
+          <path fill="currentColor" d="M406.75 -11.5Q326.25 -11.5 257.25 16.0Q188.25 43.5 136.5 93.375Q84.75 143.25 56.125 210.25Q27.5 277.25 27.5 355.25Q27.5 434 56.125 500.625Q84.75 567.25 136.125 616.25Q187.5 665.25 256.125 692.875Q324.75 720.5 405.25 720.5Q488.75 720.5 556.0 694.0Q623.25 667.5 673.5 621L554.25 501Q528.5 529 491.5 545.0Q454.5 561 405.25 561Q362.25 561 326.375 546.75Q290.5 532.5 264.625 505.375Q238.75 478.25 224.375 440.125Q210 402 210 355.25Q210 307.75 224.375 269.625Q238.75 231.5 264.625 204.375Q290.5 177.25 326.375 162.625Q362.25 148 405.25 148Q455 148 492.75 163.375Q530.5 178.75 557.75 207.5L677.75 87.5Q626 40.75 560.25 14.625Q494.5 -11.5 406.75 -11.5Z"/>
+          <path fill="currentColor" transform="translate(575.30,0)" d="M183.5 0V153.75H354Q414 153.75 458.375 176.875Q502.75 200 526.875 245.375Q551 290.75 551 355.5Q551 420 526.375 464.5Q501.75 509 457.75 532.125Q413.75 555.25 354 555.25H176V709H354.75Q436.75 709 505.875 683.625Q575 658.25 626.125 611.125Q677.25 564 705.375 499.0Q733.5 434 733.5 354.5Q733.5 275.25 705.375 210.125Q677.25 145 626.25 97.875Q575.25 50.75 506.5 25.375Q437.75 0 356.75 0ZM63.25 0V709H242V0Z"/>
+          <rect x="608.5" y="289.0" width="36" height="130" rx="16" fill="#2ec4b6"/>
+        </g></svg>
 
   profileMode:
     enabled: false
