@@ -4,8 +4,8 @@ draft: false
 title: 'The Week the Auditors Arrive'
 tags: ["ITSM", "ServiceDesk", "Audit", "Access", "JML", "Leadership"]
 cover:
-  image: "auditors-arrive-header.png"
-  alt: "A service-desk ticket list beside an audit questionnaire that is only partly filled."
+  image: "auditors-arrive-cover.png"
+  alt: "A stack of loose papers beside a navy folder with one sheet pulled out."
   relative: true
   hiddenInSingle: false
 ---
