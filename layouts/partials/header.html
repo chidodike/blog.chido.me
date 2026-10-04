@@ -26,7 +26,9 @@
                     height="{{- site.Params.label.iconHeight | default "30" -}}">
                 {{- end -}}
                 {{- else if hasPrefix site.Params.label.iconSVG "<svg" }}
-                    {{ site.Params.label.iconSVG | safeHTML }}
+                    {{- $h := site.Params.label.iconHeight | default 30 -}}
+                    {{- $svgWithSize := replace site.Params.label.iconSVG "<svg" (printf "<svg height=\"%d\" style=\"height:%dpx;width:auto;display:inline-block;vertical-align:middle;margin-right:.5rem;\" " $h $h) -}}
+                    {{ $svgWithSize | safeHTML }}
                 {{- end -}}
                 {{- $label_text -}}
             </a>
