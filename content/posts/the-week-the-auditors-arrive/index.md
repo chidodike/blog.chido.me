@@ -1,9 +1,7 @@
----
-date: '2026-10-04T12:10:00Z'
-draft: true
+date: '2026-10-04T14:37:53+01:00'
+draft: false
 title: 'The Week the Auditors Arrive'
 tags: ["ITSM", "ServiceDesk", "Audit", "Access", "JML", "Leadership"]
----
 
 Most of the year, the service desk is judged on speed. How fast the queue moves, whether the SLA is green, whether the person on the other end felt looked after. Then an audit shows up, and the question changes. SOC 2, ISO 27001, and Cyber Essentials are different certificates, but they all want the same thing from the people who run the desk: proof of who joined, who left, and who can still sign in.
 
