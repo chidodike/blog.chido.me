@@ -61,7 +61,7 @@ params:
 
   homeInfoParams:
     Title: "Making enterprise tech feel human"
-    Content: "Notes on digital employee experience, identity, and service leadership — so modern workplace tech stays quiet for the people who use it every day."
+    Content: "What I've learned running service desks: identity, employee experience, and the gap between green SLAs and happy users."
 
   socialIcons:
     - name: linkedin
