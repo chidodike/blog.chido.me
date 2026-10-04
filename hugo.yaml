@@ -61,7 +61,7 @@ params:
 
   homeInfoParams:
     Title: "Making enterprise tech feel human"
-    Content: "Notes on digital employee experience, Intune, identity, and the Modern Workplace — from Azure and AWS to the people who use them every day."
+    Content: "Notes on digital employee experience, identity, and service leadership — so modern workplace tech stays quiet for the people who use it every day."
 
   socialIcons:
     - name: linkedin
