@@ -3,7 +3,8 @@ date: '2026-10-12T09:00:00+01:00'
 draft: true
 title: 'The First 90 Days as an Outsider Leader'
 cover:
-  alt: "New service leader listening at the desk beside a map of an estate they did not grow up in"
+  image: "first-90-days-cover.png"
+  alt: "Two nearly identical desk setups joined by a map pin, with the second desk's clock and plug socket highlighted in teal"
   relative: true
   hiddenInSingle: false
 tags: ["Leadership", "ITSM", "ServiceDesk", "ModernWorkplace", "DEX"]
