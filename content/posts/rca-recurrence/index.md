@@ -1,5 +1,5 @@
 ---
-date: '2026-10-05T09:00:00+01:00'
+date: '2026-10-05T09:20:00+01:00'
 draft: false
 title: 'RCA That Actually Cuts Recurrence'
 cover:
