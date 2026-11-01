@@ -4,7 +4,7 @@ draft: false
 title: 'Vendor & Smart-Hands Governance'
 cover:
   image: "vendor-smart-hands-cover.png"
-  alt: "A gloved hand hovering between two identical server units, with a labelled tag and a checklist clipboard beside the rack"
+  alt: "A flat server rack with a blank tag on one unit, a hand pointing at it, and a clipboard with a tick beside it"
   relative: true
   hiddenInSingle: false
 tags: ["ITSM", "ServiceDesk", "VendorManagement", "SmartHands", "DEX"]
