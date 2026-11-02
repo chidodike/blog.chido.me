@@ -1,6 +1,6 @@
 ---
 date: '2026-11-02T09:00:00+00:00'
-draft: true
+draft: false
 title: 'JML Done Properly'
 cover:
   image: "jml-done-properly-cover.png"
