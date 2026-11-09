@@ -1,6 +1,6 @@
 ---
 date: '2026-11-09T09:00:00+00:00'
-draft: true
+draft: false
 title: 'One Estate, Two Worlds: Intune and Jamf'
 cover:
   image: "intune-jamf-one-estate-cover.png"
