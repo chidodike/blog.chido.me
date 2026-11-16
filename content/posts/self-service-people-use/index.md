@@ -1,6 +1,6 @@
 ---
 date: '2026-11-16T09:00:00+00:00'
-draft: true
+draft: false
 title: 'Self-Service That People Actually Use'
 cover:
   image: "self-service-people-use-cover.png"
