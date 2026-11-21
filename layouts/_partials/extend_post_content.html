@@ -1,0 +1,16 @@
+{{- /* Local addition: author box and follow links at the end of each post. */ -}}
+{{- if and (eq .Section "posts") (ne .Params.hideAuthorBox true) }}
+{{- $a := site.Params.authorBox }}
+<aside class="author-box" aria-label="About the author">
+  {{- with $a.image }}
+  <img class="author-box__photo" src="{{ . | absURL }}" alt="{{ site.Params.author }}" width="72" height="72" loading="lazy">
+  {{- end }}
+  <div class="author-box__body">
+    <p class="author-box__name">{{ site.Params.author }}</p>
+    <p class="author-box__bio">{{ $a.bio }}</p>
+    <p class="author-box__links">
+      {{- range $i, $l := $a.links }}{{ if $i }} · {{ end }}<a href="{{ $l.url }}"{{ if hasPrefix $l.url "http" }} rel="noopener"{{ end }}>{{ $l.name }}</a>{{ end }}
+    </p>
+  </div>
+</aside>
+{{- end }}

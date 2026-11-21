@@ -1,7 +1,7 @@
 ---
 date: '2026-02-05T19:56:07Z'
 draft: false
-title: 'Zero Touch, High Magic: Redefining the "Day One" Experience'
+title: 'A Better First Day with Autopilot'
 cover:
   image: "day-one-header.png"
   alt: "Zero Touch Provisioning vs Legacy Day One"
@@ -17,15 +17,15 @@ Think back to your first day at a new job, five or ten years ago.
 
 Someone from IT turned up with a heavy laptop, a sticky note with a temporary password, and a multi-page printout. You spent the next four hours watching progress bars, mapping network drives, ringing the helpdesk for access to your email, and waiting for the VPN to connect.
 
-It was a rite of passage, and it was a poor introduction to a company. If someone spends their first day fighting with technology, the message they take away is that the place is slow, dated, and going to be a struggle.
+Everyone went through it, and it was a poor introduction to a company. If someone spends their first day fighting with technology, the message they take away is that the place is slow, dated, and going to be a struggle.
 
-The comparison people make now isn't with other employers. It's with their phone. Somebody buys a new handset on a Sunday, signs in, and has their life back within minutes. They expect the corporate laptop on Monday to behave the same way.
+People now compare their first day with setting up a new phone. Somebody buys a new handset on a Sunday, signs in, and has their life back within minutes. They expect the corporate laptop on Monday to behave the same way.
 
 ---
 
 ## What zero touch looks like
 
-The gold standard for deployment is zero-touch provisioning, using Windows Autopilot and Microsoft Intune (or Automated Device Enrollment through Apple Business Manager for Macs). Microsoft is also rolling out Windows Autopilot Device Preparation, sometimes called Autopilot v2. It streamlines the flow further and is worth watching as it matures.
+The approach to aim for is zero-touch provisioning, using Windows Autopilot and Microsoft Intune (or Automated Device Enrollment through Apple Business Manager for Macs). Microsoft is also rolling out Windows Autopilot Device Preparation, sometimes called Autopilot v2. It streamlines the flow further and is worth watching as it matures.
 
 In practice:
 
@@ -51,7 +51,7 @@ You've taken a good process and loaded it until it breaks.
 
 ## A lean first day
 
-The aim of day one isn't a fully loaded workstation. It's a secure, usable desktop as quickly as you can get there.
+The aim of day one is a secure, usable desktop as quickly as you can get there. A fully loaded workstation can wait.
 
 **Block on the essentials only.** A browser, your zero-trust network access agent so the device is protected, and Microsoft 365. That's the list.
 
@@ -72,3 +72,5 @@ A clean Autopilot experience is the digital version of that. It tells the new st
 ## Try this
 
 Open your Autopilot Enrollment Status Page configuration in Intune and count the apps marked as required. If the number is above five, you're adding friction. Pick three of the heaviest and move them to background deployment, then time the next new starter's first day and compare.
+
+The device is only half of day one. The account, licence and access behind it are covered in [JML Done Properly](/posts/jml-done-properly/).

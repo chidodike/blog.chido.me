@@ -1,8 +1,8 @@
 ---
 date: '2026-01-25T22:45:32Z'
 draft: false
-title: 'The Invisible Workspace: Making Tech Feel Human in 2026'
-tags: ["Modern Workplace", "Cloud", "User Experience"]
+title: 'Nobody Wants to Think About the Cloud'
+tags: ["Modern Workplace", "DEX", "Employee Experience"]
 cover:
     image: "workspace.png"
     alt: "The Invisible Workspace"
@@ -35,10 +35,10 @@ Windows 10 support has ended. AI features are turning up inside Windows and Micr
 
 ## What I'll write about
 
-- **Digital experience:** how to measure how work feels, alongside whether the systems are up.
-- **Devices:** Autopilot, Intune, and life after Windows 10.
-- **The cloud underneath:** how Azure and AWS sit behind the modern desktop.
-- **Policy:** what our decisions do to the people who live with them.
+- **Digital employee experience:** how to measure how work feels, alongside whether the systems are up.
+- **Identity without the grind:** MFA, Conditional Access and joiners, movers and leavers done with as little friction as possible.
+- **Global service leadership:** running desks across time zones with clear owners and handoffs that carry the whole story.
+- **Automation as empathy:** taking repetitive work off people so they can spend their time on problems that need a person.
 
 Some posts will be hands-on and some will be opinion. If you're an engineer, an architect, or someone who runs a team and wants technology that works without fuss, you're who I'm writing for.
 

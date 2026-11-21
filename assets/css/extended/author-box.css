@@ -1,0 +1,19 @@
+/* Author box shown after each post (layouts/_partials/extend_post_content.html) */
+.author-box {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  margin: 40px 0 8px;
+  padding: 20px;
+  border: 1px solid var(--border);
+  border-left: 4px solid #2ec4b6;
+  border-radius: var(--radius);
+  background: var(--entry);
+}
+.author-box__photo { width: 72px; height: 72px; border-radius: 50%; object-fit: cover; flex: none; margin: 0; }
+.author-box__body p { margin: 0; }
+.author-box__name { font-weight: 600; font-size: 1.05rem; }
+.author-box__bio { margin-top: 4px !important; color: var(--secondary); line-height: 1.5; }
+.author-box__links { margin-top: 10px !important; font-size: 0.95rem; }
+.author-box__links a { box-shadow: 0 1px 0 #2ec4b6; }
+@media (max-width: 480px) { .author-box { flex-direction: column; } }
