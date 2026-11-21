@@ -1,7 +1,7 @@
 ---
 date: '2026-02-11T19:34:28Z'
 draft: false
-title: 'Zero Trust, Zero Friction: Why Passwords are the Enemy of Experience'
+title: 'Why Passwords Are the Enemy of Experience'
 cover:
   image: "passwordless-header.png"
   alt: "Passwords vs Biometrics"
@@ -16,7 +16,7 @@ For as long as corporate IT has existed, the security team and the people using 
 
 The old belief was that something has to be difficult to be secure. That gave us 90-day password expiry. It gave us rules demanding an uppercase letter, a number and a special character. It gave us VPNs that dropped every time a laptop moved from Wi-Fi to mobile data, and MFA fatigue, where people get prompted so often they tap "Approve" without reading.
 
-We built strong walls and then made the gate too heavy for our own staff to open.
+The controls were strong, and our own staff struggled to get through them.
 
 People who can't get their work done don't stop working. They email files to a personal Gmail account. They sign up for apps IT has never heard of. High-friction security ends up less secure than it looks on paper, because it breeds workarounds.
 

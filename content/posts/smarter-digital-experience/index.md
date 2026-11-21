@@ -1,7 +1,8 @@
 ---
 date: '2026-01-29T17:35:30Z'
 draft: false
-title: 'Smarter Digital Experience : The Watermelon Effect'
+title: 'The Watermelon Effect'
+tags: ["DEX", "XLA", "Intune", "Employee Experience"]
 cover:
   image: "header-watermelon.jpg"
   alt: "Watermelon Effect Dashboard"
@@ -55,3 +56,5 @@ Close the green dashboard for an hour and look for one source of friction instea
 - the mapped drive that drops every morning
 
 Fix one. Small annoyances are cheap to remove and users notice the difference faster than they notice any big project.
+
+I come back to this gap between the dashboard and the desk in [When Green SLAs Still Mean Angry Users](/posts/green-slas/).

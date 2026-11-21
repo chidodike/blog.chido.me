@@ -69,6 +69,18 @@ params:
     Title: "Making enterprise tech feel human"
     Content: "What I've learned running service desks: identity, employee experience, and the gap between green SLAs and happy users."
 
+  authorBox:
+    # Add a square headshot to static/ and set image: "/headshot.jpg" to show it.
+    image: ""
+    bio: "I lead 24/7 IT service desks across the UK, EMEA and APAC, and write about closing the gap between green SLAs and how people actually experience IT."
+    links:
+      - name: "Follow on LinkedIn"
+        url: "https://www.linkedin.com/in/cdozdike"
+      - name: "More about me"
+        url: "https://chido.me/"
+      - name: "New posts by RSS"
+        url: "/index.xml"
+
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/cdozdike"
